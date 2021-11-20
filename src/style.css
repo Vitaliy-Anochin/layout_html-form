@@ -1,8 +1,16 @@
-.form-field {
-  display: block;
-  padding: 10px;
-}
-fieldset {
-  margin: 20px;
+form {
+  width: 100%;
 }
 
+.row {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.row:last-child {
+  margin-bottom: 0;
+}
+
+.block {
+  margin-bottom: 20px;
+}
