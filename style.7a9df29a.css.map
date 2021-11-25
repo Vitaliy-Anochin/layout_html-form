@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,KACE,UACF,CAEA,KACE,aAAc,CACd,kBACF,CAEA,gBACE,eACF,CAEA,OACE,kBACF","file":"style.7a9df29a.css","sourceRoot":"..\\src","sourcesContent":["form {\n  width: 100%;\n}\n\n.row {\n  display: block;\n  margin-bottom: 10px;\n}\n\n.row:last-child {\n  margin-bottom: 0;\n}\n\n.block {\n  margin-bottom: 20px;\n}\n"]}
